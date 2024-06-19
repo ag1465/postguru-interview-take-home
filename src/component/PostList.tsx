@@ -18,7 +18,7 @@ type Post = {
       "& .MuiAutocomplete-option": {
         "&:hover": {
           backgroundColor: "#10178f",
-          color: "#fff", // optional: change the text color on hover
+          color: "#fff",
         },
       },
     },
@@ -28,7 +28,7 @@ type Post = {
     "& .MuiAutocomplete-option": {
       "&:hover": {
         backgroundColor: "#10178f",
-        color: "#fff", // optional: change the text color on hover
+        color: "#fff",
       },
     },
   });
